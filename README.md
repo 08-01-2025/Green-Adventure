@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Paquete Turístico - Aventura en Bolivia</title>
+    <title>Paquete Turístico - Green Abventure</title>
     <style>
         body {
             font-family: Arial, sans-serif;
@@ -37,26 +37,27 @@
 </head>
 <body>
     <header>
-        <h1>Explora Bolivia: Aventura Andina</h1>
+        <h1>Explora Bolivia: Aventura verde</h1>
     </header>
     <div class="container">
-        <h2>Descubre la Magia de los Andes</h2>
+        <h2>Descubre la Magia de los hermosos paisajes turisticos</h2>
         <p>Sumérgete en una experiencia única explorando los paisajes más impresionantes de Bolivia. Este paquete incluye visitas a:</p>
         <ul>
-            <li>Salar de Uyuni</li>
-            <li>La Paz y el Teleférico</li>
-            <li>Tiwanaku: Cultura y Arqueología</li>
-            <li>Copacabana y el Lago Titicaca</li>
+            <li>Tajzara</li>
+            <li>La laguna Pujzara</li>
+            <li>La comunidad de Lazareto</li>
+            <li>La comunidad de San Pedro</li>
         </ul>
         <h3>Incluye:</h3>
         <ul>
-            <li>Alojamiento en hoteles boutique</li>
+            <li>Alojamiento en albergues</li>
             <li>Transporte privado</li>
             <li>Guías turísticos especializados</li>
-            <li>Desayunos y cenas típicas</li>
+            <li>Desayunos, almuerzos y cenas típicas</li>
         </ul>
-        <p><strong>Precio: $999 por persona</strong></p>
-        <a href="#" class="btn">Reserva Ahora</a>
+        <p><strong>Precio: Bs250 por persona(Primer paquete "Ruta del peregrino")</strong></p>
+        <p><strong>Precio: Bs1200 por persona(Segundo paquete "Aventura por Tajzara")</strong></p>
+        <a href="#" class="btn">Reserva Ahora y no te pierdas de las aventuras que inspiran y experiencias que te transforman</a>
     </div>
 </body>
 </html>
